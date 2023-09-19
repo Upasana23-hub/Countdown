@@ -1,0 +1,130 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.outer-div{
+    height: 100vh;
+    width: 100%;
+    background-image: url('https://plus.unsplash.com/premium_photo-1664299489492-0f139c3c6266?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fG1hbiUyMHdpdGglMjBsYXB0b3B8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60');
+    background-size:cover;
+    background-position:center;
+    background-repeat:no-repeat ;
+}
+.inner-div{
+    height: 100vh;
+    width: 100%;
+    background-color: transparent;
+    background: rgba(0, 0, 0, 0.6);
+    
+    
+    
+}
+.collection-div1{
+    height: 23vh;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    font-size: large;
+    padding-top: 10vh;
+}
+.collection-div2{
+    height: 37vh;
+    width: 95%;
+    padding-top: 20vh;
+    font-size: larger;
+    display: inline-flex;
+    padding-left: 5%;
+    
+    
+}
+#day{
+    height: 12vh;
+    width: 100%;
+    background-color: transparent;
+    margin-left: 5%;
+    border-radius: 5px;
+    color: white;
+    font-size: 50px;
+    padding-top: 13%;
+    text-align: center;
+    background-color: rgb(248, 95, 95);
+    font-weight:bolder;
+}
+#hour{
+    height: 12vh;
+    width: 100%;
+    background-color: transparent;
+    margin-left: 5%;
+    border-radius: 5px;
+    color: white;
+    font-size: 50px;
+    padding-top: 13%;
+    text-align: center;
+    background-color: rgb(248, 95, 95);
+    font-weight: bolder;
+}
+#minute{
+    height: 12vh;
+    width: 100%;
+    background-color: transparent;
+    margin-left: 5%;
+    border-radius: 5px;
+    color: white;
+    font-size: 50px;
+    padding-top: 13%;
+    text-align: center;
+    background-color: rgb(248, 95, 95);
+    font-weight: bolder;
+}
+#second{
+    height: 12vh;
+    width: 100%;
+    background-color: transparent;
+    margin-left: 5%;
+    border-radius: 5px;
+    color: white;
+    font-size: 50px;
+    padding-top: 13%;
+    text-align: center;
+    background-color: rgb(248, 95, 95);
+    font-weight: bolder;
+}
+.text2{
+    height: 10vh;
+    width: 100%;
+    background-color: transparent;
+    color: white;
+    margin-left: 25%;
+}
+.text1{
+    margin-left: 13%;
+    height: 10vh;
+    width: 100%;
+    background-color: transparent;
+    color: white;
+}
+.text3{
+    margin-left: 32%;
+    height: 10vh;
+    width: 100%;
+    background-color: transparent;
+    color: white;
+}
+.abcd-div{
+    height: 40vh;
+    width: 10%;
+    background-color:transparent;
+    margin-left: 10%
+    
+}
+.nav-div{
+    height: 2vh;
+    width: 100%;
+    background-color: antiquewhite;
+
+}
+.heading{
+    margin-left: 25%;
+}
+.heading1{
+    margin-left: 40%;
+}
